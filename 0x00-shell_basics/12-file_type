@@ -1,0 +1,3 @@
+#!/bin/bash
+touch /tmp/iamafile
+echo "$(file /tmp/iamafile)"
